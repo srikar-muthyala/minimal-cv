@@ -1,0 +1,92 @@
+body{
+  margin: 0;
+  align-content: center;
+  font-family: sans-serif;
+
+}
+
+.heading{
+  color: #66BFBF;
+}
+
+.subtext{
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 50px;
+}
+
+.name{
+  background-color: #dff6f0;
+  padding-top: 200px;
+
+
+}
+
+h3{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+h2{
+  color: #11999E;
+}
+
+
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 40%;
+  text-align: left;
+}
+
+.top-cloud{
+  position: absolute;
+  left:600px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  right:600px;
+}
+
+.cont{
+  width: 40%;
+}
+
+hr{
+  border: dotted #EAF6F6 9px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.middle-container{
+  margin-top: 100px;
+}
+.bottom-container{
+  margin-top: 100px;
+}
+
+.code{
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.ms{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.photoshop{
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.illustrator{
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
